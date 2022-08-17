@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Vehicle Window Center
-image: https://www.equestrianlifemagazine.co.uk/wp-content/uploads/2012/05/Whittaker-Wood-Demo-26T-1.jpg
+image: /img/quality-horsebox-side.jpg
 heading: We can make any size to fit your bespoke build or application...
 subheading: Bespoke windows and doors for any application
 mainpitch:
