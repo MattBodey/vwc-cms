@@ -5,16 +5,15 @@ image: https://www.equestrianlifemagazine.co.uk/wp-content/uploads/2012/05/Whitt
 heading: We can make any size to fit your bespoke build or application...
 subheading: Bespoke windows and doors for any application
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: About
+  description: "At VWC we have been manufacturing windows and doors in West
+    Yorkshire for over 25 years. We serve a broad range of customers throughout
+    the UK and Europe and our products are used in horseboxes, motorsport
+    vehicles, motorhomes, trailers, teardrop trailers, catering units, ice cream
+    vans, portable buildings, specialised vehicle conversions.... and many more.
+
+    \ "
+description: gfds
 intro:
   blurbs:
     - image: /img/coffee.png
